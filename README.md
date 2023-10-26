@@ -1,4 +1,4 @@
-# css-snippet-cheatsheet
+# CSS Snippet Cheatsheet
 
 ## Description
 
@@ -41,5 +41,6 @@ This application meets the following criteria:
 
 <img width="1423" alt="Screenshot 2023-10-27 at 00 20 39" src="https://github.com/goalzz/css-snippet-cheatsheet/assets/124784722/23395ff9-a92b-47a2-acdd-8a0a31586e75">
 
-
+### Credits
+Boot Camp team
 
