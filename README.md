@@ -35,8 +35,11 @@ This application meets the following criteria:
 *CSS transition property* - https://developer.mozilla.org/en-US/docs/Web/CSS/transition
 
 
-### Website Preview 
+### Website Preview and link
 
+*URL*: https://goalzz.github.io/css-snippet-cheatsheet/
+
+<img width="1423" alt="Screenshot 2023-10-27 at 00 20 39" src="https://github.com/goalzz/css-snippet-cheatsheet/assets/124784722/23395ff9-a92b-47a2-acdd-8a0a31586e75">
 
 
 
