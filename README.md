@@ -25,9 +25,13 @@ This application meets the following criteria:
 ### Resources
 
 *pre tag* - https://css-tricks.com/considerations-styling-pre-tag/
+
 *HTML pre element* -  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre
+
 *CSS user-select property* - https://developer.mozilla.org/en-US/docs/Web/CSS/user-select
+
 *CSS linear-gradient function* - https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient
+
 *CSS transition property* - https://developer.mozilla.org/en-US/docs/Web/CSS/transition
 
 
